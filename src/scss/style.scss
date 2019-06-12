@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #ffffff;
+  font-family: 遊ゴシック, メイリオ, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  min-width: 120px;
+
+  .container {
+    margin: 8px;
+    text-align: center;
+
+    .title {
+      margin: 0;
+      padding: 0;
+    }
+
+    .cls-element {
+      border: 1px solid #aaaaaa;
+      border-radius: 4px;
+      margin: 3px 0 1.5px 0;
+      width: 100px;
+
+    }
+
+
+  }
+}
